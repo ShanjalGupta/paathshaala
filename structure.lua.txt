@@ -1,0 +1,16 @@
+my-website/
+├── components/
+│   ├── Carousel.js
+│   ├── CountUp.js
+│   ├── Header.js
+│   ├── ThemeToggle.js
+├── pages/
+│   ├── _app.js
+│   ├── index.js
+├── store/
+│   ├── themeStore.js
+├── styles/
+│   ├── globals.css
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json

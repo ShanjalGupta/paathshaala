@@ -1,0 +1,6 @@
+//project setup
+
+npx create-next-app@latest my-website
+cd my-website
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p

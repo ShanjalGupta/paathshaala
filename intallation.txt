@@ -1,0 +1,4 @@
+npx create-next-app@latest my-website
+cd my-website
+npm install tailwindcss postcss autoprefixer zustand swiper react-countup
+npx tailwindcss init -p

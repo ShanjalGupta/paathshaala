@@ -1,0 +1,2 @@
+//for craousel
+npm install swiper

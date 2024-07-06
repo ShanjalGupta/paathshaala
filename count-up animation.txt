@@ -1,0 +1,2 @@
+//animation count up
+npm install react-countup
